@@ -1,0 +1,36 @@
+font = terminus 8
+ 
+bg_normal = #000000
+bg_focus = #ffffff
+bg_urgent = #ff0000
+ 
+#fg_normal = #1793d1
+fg_normal = #579F5A
+fg_focus = #3E60C7
+fg_urgent = #ffffff
+
+fg_widget        = #AECF96
+fg_center_widget = #88A175
+fg_end_widget    = #FF5656
+fg_off_widget    = #494B4F
+fg_netup_widget  = #7F9F7F
+fg_netdn_widget  = #CC9393
+bg_widget        = #3F3F3F
+border_widget    = #3F3F3F
+
+border_width = 1
+#border_normal = #ffffff
+border_focus = #000000
+border_marked = #ff0000
+ 
+# You can use your own command to
+# set your wallpaper
+wallpaper_cmd = awsetbg /home/omi/documents/wallpapers/the_rise_of_a_planet.jpg
+ 
+# You can add as many variables as
+# you wish and access them by using
+# beautiful.variable in your rc.lua
+# Omi-wa
+# added 20:50
+taglist_squares = true
+titlebar_close_button = true
